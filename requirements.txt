@@ -1,0 +1,16 @@
+streamlit>=1.31.0
+pandas>=2.0.0
+requests>=2.31.0
+langchain-core>=0.1.0
+langchain-ollama>=0.0.1
+scrapegraphai>=0.1.0
+playwright>=1.40.0
+uuid>=1.30
+pillow>=10.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Additional setup commands:
+# Install playwright browsers: playwright install
+# Install and run Ollama: https://ollama.ai/download
+# Pull the required model: ollama pull qwen2.5:latest
