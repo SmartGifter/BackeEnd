@@ -1,6 +1,6 @@
-# HubsHub - Gift Coordination Platform
+# SmartGifter - Gift Coordination Platform
 
-HubsHub is a comprehensive gift coordination platform that allows users to create events, build wishlists, and coordinate group gifts using advanced fund allocation algorithms and AI-powered suggestions.
+SmartGifter  is a comprehensive gift coordination platform that allows users to create events, build wishlists, and coordinate group gifts using advanced fund allocation algorithms and AI-powered suggestions.
 
 ## Features
 
